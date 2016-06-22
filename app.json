@@ -1,0 +1,15 @@
+{
+  "name": "smaakmakert",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
